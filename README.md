@@ -77,14 +77,7 @@ Linux / macOS 刷机方法
 
 完整校验值见 SHA256SUMS.txt。
 
-编译结果
 
-Sketch uses 1261465 bytes (96%) of program storage space.
-Global variables use 41360 bytes (12%) of dynamic memory.
-
-说明
-
-本固件为分享版，不应包含个人 WiFi、通知 Token、Chat ID 等私有配置。首次使用请进入后台自行配置。
 
 
 
