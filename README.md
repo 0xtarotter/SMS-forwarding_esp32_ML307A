@@ -1,6 +1,11 @@
 # SMS-forwarding_esp32_ML307A
 基于中移物联ML307A的短信转发固件，基于chenxuuu / sms_forwarding开源固件二次编译。优化webui和功能区分
 
+# 申明
+基于个人需求场景编译，不作任何风险保证，支持国内外多数运营商。
+电信✅  移动✅  联通✅ GIFFGAFF✅ CUNIQ✅ T-MOBILE✅ O2✅ 
+国内移不动测试期间出现二次验证，其他正常。
+
 # 刷写教程
 
 [教程](https://github.com/0xtarotter/SMS-forwarding_esp32_ML307A/blob/main/INSTALL.md)
