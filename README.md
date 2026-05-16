@@ -45,3 +45,6 @@
 ![444.png](https://files.seeusercontent.com/2026/05/16/i1jD/444.png)
 ![555.png](https://files.seeusercontent.com/2026/05/16/Mx8e/555.png)
 
+# 致谢
+
+基于[@chenxuuu](https://github.com/chenxuuu) 项目二次编译修改，感谢大佬提供先行思路。
