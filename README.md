@@ -5,7 +5,7 @@
 
 [教程]()
 
-[原作者 README.md](https://github.com/0xtarotter/SMS-forwarding_esp32_ML307A/INSTALL.md)
+[原作者 README.md](https://github.com/0xtarotter/SMS-forwarding_esp32_ML307A/blob/main/INSTALL.md)
 
 # 设备外观 
 <img src="https://files.seeusercontent.com/2026/05/16/K6lj/a9723ed.png" width="200" />
